@@ -1,3 +1,10 @@
+## 앗! GitHub Discussion이나 Issue를 먼저 시도해주세요.
+대부분의 웹 사이트, AdGuard, uBlock Origin 문제는 GitHub Discussion이나 Issue를 열어서 해결될 수 있어요.
+
+어디에 열어야 하는지 모르시면, GitHub 계정으로 로그인하여 [이 곳에서 GitHub Discussion](https://github.com/List-KR/List-KR/discussions/new/choose)을 생성해주세요.
+
+관리자 또는 유지보수자가 맞는 위치로 이동시키거나 닫은 후 다시 열어 처리할거예요.
+
 ### List-KR 필터
 List-KR 필터의 collaborators는 다음과 같아요:
 
