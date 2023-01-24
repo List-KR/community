@@ -1,9 +1,13 @@
-### AdGuard
- - [Mozilla Firefox에 설치](https://addons.mozilla.org/ko/firefox/addon/adguard-adblocker/)
- - [Chromium 기반 브라우저에 설치](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=ko)
+### [AdGuard](https://github.com/List-KR/List-KR/wiki/AdGuard/_main)
+- [설치 및 구입하기](https://github.com/List-KR/List-KR/wiki/AdGuard/installation)
+- [나무위키 하단 파워링크 광고와 애드쉴드 문제 해결하기](https://github.com/List-KR/List-KR/wiki/uBO/userscripts)
 
-### uBlock Origin
- - [Mozilla Firefox에 설치](https://addons.mozilla.org/ko/firefox/addon/ublock-origin/)
- - [Chromium 기반 브라우저에 설치](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=ko)
+### [uBlock Origin](https://github.com/List-KR/List-KR/wiki/uBO/_main)
+- [나무위키 하단 파워링크 광고와 애드쉴드 문제 해결하기](https://github.com/List-KR/List-KR/wiki/uBO/userscripts)
 
-_* AMO(addons.mozilla.org)으로 설치되는 AdGuard 브라우저 확장 프로그램은 Mozilla의 보안 제한을 받지만, [AdGuard Standalone 버전](https://agrd.io/extension_firefox_beta)을 설치해 무시할 수 있습니다._
+### [기록](https://github.com/List-KR/List-KR/wiki/history/_main)
+
+
+### 연락처 및 라이선스
+  - [연락처](https://github.com/List-KR/List-KR/wiki/contacts)
+  - [라이선스](https://github.com/List-KR/List-KR/wiki/LICENSE)

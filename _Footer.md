@@ -1,1 +1,1 @@
-이 곳, List-KR repository의 위키, 에 변경 사항을 반영하시기 원하시면, GitHub 계정으로 로그인하여 [새로운 토론을 제출](https://github.com/List-KR/List-KR/discussions/new?category=request-changes)해주세요. 
+이 곳, List-KR repository의 위키, 을 수정하시기 원하시면, GitHub 계정으로 로그인하여 [새로운 토론을 제출](https://github.com/List-KR/List-KR/discussions/new?category=request-changes)해주세요.
