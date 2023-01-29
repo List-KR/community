@@ -33,8 +33,9 @@ https://cdn.jsdelivr.net/gh/List-KR/microShield@main/microShield.user.js
 2. 해당 웹 페이지에서 Violentmonkey를 설치하세요.
 
 ## Violentmonkey가 설치되어 있는 경우
-아래 URL들을 클릭해서 나무위키 하단에 있는 파워링크 광고를 차단하는 NamuLink와 애드쉴드를 차단하는 microShield를 설치하세요:
+아래 URL들을 클릭해서 나무위키 하단에 있는 파워링크 광고를 차단하는 NamuLink, 애드쉴드를 차단하는 microShield와 Twitch 광고를 차단하는 AdGuard Extra를 설치하세요:
  - [NamuLink](https://github.com/List-KR/NamuLink): [https://cdn.jsdelivr.net/gh/List-KR/NamuLink@main/NamuLink.user.js](https://cdn.jsdelivr.net/gh/List-KR/NamuLink@main/NamuLink.user.js)
  - [microShield](https://github.com/List-KR/microShield): [https://cdn.jsdelivr.net/gh/List-KR/microShield@main/microShield.user.js](https://cdn.jsdelivr.net/gh/List-KR/microShield@main/microShield.user.js)
+ - [AdGuard Extra](https://github.com/AdguardTeam/AdGuardExtra): [https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js](https://userscripts.adtidy.org/release/adguard-extra/1.0/adguard-extra.user.js)
 
  그런 뒤, 해당 웹 페이지가 열린 탭을 새로고침하세요.
