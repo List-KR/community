@@ -20,3 +20,4 @@ List-KR 필터의 collaborators는 다음과 같아요:
 - 아래 이메일 주소는 OpenPGP 암호화를 지원하지 않으며 알려진 OpenPGP 공개 키가 없어요:
   - `j.w.so@adguard.com`
   - `JobcenterTycoon@gmail.com`
+- 각 메일 도메인이 어떤 서버를 사용하시는지 궁금하시면, [checktls.com](https://www.checktls.com/TestReceiver)에 방문해보세요.
