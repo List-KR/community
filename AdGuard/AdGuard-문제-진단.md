@@ -23,3 +23,7 @@ AdGuard for Windows와 금융 보안 소프트웨어가 충돌을 일으켜서 �
 아니면, 아래 중 하나를 선택해 Windows가 설치된 가상 머신을 생성하고 금융 보안 소프트웨어를 그 곳에서 설치하는 방법도 있어요:
  - [Oracle VM VirtualBox](https://www.virtualbox.org/)
  - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)
+
+# AdGuard for Android
+## Mod로 AdGuard for Android 프리미엄을 사용하는 경우
+일부 카카오톡 오픈채팅방과 티스토리 블로그에서 지식이 부족함에도 문의를 받으며 AdGuard Mod를 배포하는 경우가 있는데, 이런 경우 해당 Mod APK의 소스 코드가 [AdGuard 공식 홈페이지](https://adguard.com/ko/adguard-android/overview.html)에서 배포하는 APK의 소스 코드하고 달라 AdGuard 공식 APK에서는 발생하지 않는 증상이 나타날 수 있습니다.
