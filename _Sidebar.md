@@ -9,6 +9,8 @@
 
 ### [히스토리](https://github.com/List-KR/List-KR/wiki/히스토리-메인)
 
+### 기타 리소스
+ - [호스트 리스트](https://github.com/List-KR/List-KR/wiki/호스트-리스트)
 
 ### 연락처 및 라이선스
   - [연락처](https://github.com/List-KR/List-KR/wiki/contacts)
