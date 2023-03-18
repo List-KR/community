@@ -37,6 +37,10 @@ Android용 AdGuard는 AdGuard 설정 -> 스텔스 모드에서 사용자 정의�
 대한민국으로부터 가장 가까운 AdGuard DNS 서버는 일본에 있으므로, DNS over HTTPS으로 보호되고 대한민국에 있는 Cloudflare DNS 서버의 사용을 권장합니다.
 
 DNS 필터링 필터는 의도치 못한 오작동을 유발할 수 있으므로, 가급적 끄시길 권장해요.
+단, AdGuard for iOS Pro이시라면, DNS 필터링에 List-KR DNS를 추가 및 활성화해주세요.
+```
+https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
+```
 
 ## 나무위키 하단의 파워링크 광고 및 애드쉴드 (조건부 프리미엄)
 사이드 바에 있는 `나무위키 하단 파워링크 광고와 애드쉴드 문제 해결하기`에 자세히 서술되어 있어요.
