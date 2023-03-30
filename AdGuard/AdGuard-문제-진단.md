@@ -7,6 +7,8 @@
 
 이러한 프로그램은 소프트웨어 개발자가 소프트웨어에 대한 문제 보고를 받아도 패치 및 배포를 전혀 하지 않는 경우가 다수이예요.
 
+https://n.news.naver.com/mnews/article/030/0003087787
+
 사용자의 프라이버시와 컴퓨터의 보안을 위협에 대한 자세한 정보은 [Wladimir Palant가 작성한 글을 한국어로 번역한 글들](https://github.com/alanleedev/KoreaSecurityApps)을 참고해주세요.
 
 ### 충돌하는 경우 다양한 형태의 문제가 발생함
