@@ -7,8 +7,6 @@ _AdGuard 프리미엄(Windows, Android, iOS Pro, Mac)과 AdGuard 브라우저 �
 - AdGuard 베이스 필터 (광고 차단)
 - AdGuard 추격 보호 필터 (개인정보 보호)
 - AdGuard URL 추격 필터 (개인정보 보호)
-- AdGuard 소셜 필터 (소셜)
-- AdGuard 방해 요소 필터 (방해 요소)
 - List-KR (특정 언어)
 
 일본어 웹 사이트에 자주 방문하신다면, 다음 필터도 추가로 활성화해주세요:
