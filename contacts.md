@@ -21,3 +21,11 @@ List-KR 필터의 collaborators는 다음과 같아요:
   - `j.w.so@adguard.com`
   - `JobcenterTycoon@gmail.com`
 - 각 메일 도메인이 어떤 서버를 사용하시는지 궁금하시면, [checktls.com](https://www.checktls.com/TestReceiver)에 방문해보세요.
+
+----
+
+> **Disclaimer** The assets and resources on List-KR organization **DO NOT** represent any kind of my preference, directional, or opinion unless the author is explicitly marked. The individual List-KR contributors do commit to the assets and resources at their own responsibility on Git by adding their own signature publicly, and the author of each resources and assets can be verified by checking the Git signature.
+>
+> **면책** List-KR 단체의 자료와 자산은 작성자가 명백히 명시되어 있지 않는 한 제 선호, 방향, 또는 의견을 **대변하지 않습니다**. List-KR 기여자 개개인은 각자의 책임 하에 각자의 고유한 서명을 공개적으로 추가하여 Git에 자료와 자산을 기록하기에, Git 서명을 확인하여 각 자료와 자산의 작성자를 검증할 수 있습니다.
+>
+> *by **HoJeong Go, a.k.a [@seia-soto on GitHub](https://github.com/seia-soto)***
