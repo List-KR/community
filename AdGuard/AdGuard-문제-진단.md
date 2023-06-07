@@ -1,31 +1,13 @@
-# AdGuard for Windows
-## 금융 보안 소프트웨어와의 충돌로 인해 발생하는 경우
-### 서론
-대한민국에서 인터넷에서 금융 거래/작업을 하려고 하면, 대부분 공동인증서 소프트웨어나 보안 소프트웨어를 설치하라고 강요해요.
+# Windows용 AdGuard와 보안 프로그램 충돌
 
-그러나, 이러한 소프트웨어들은 사실은 보안을 향상 시키는 소프트웨어가 아닌 오히려 사용자의 프라이버시와 컴퓨터의 보안을 위협하는 소프트웨어에 불구해요.
+인터넷 금융 거래 등의 작업을 할 때는 대한민국에서는 보안 프로그램을 필요로 합니다.
 
-이러한 프로그램은 소프트웨어 개발자가 소프트웨어에 대한 문제 보고를 받아도 패치 및 배포를 전혀 하지 않는 경우가 다수이예요.
+AdGuard와 동시에 사용할 때 웹 사이트 접속 불가 등의 문제가 발생할 수 있으므로 평상 시에는 보안 프로그램 제거를 권장합니다.
 
-https://n.news.naver.com/mnews/article/030/0003087787
+- [구라제거기](https://teus.me/category/IT/%EA%B5%AC%EB%9D%BC%EC%A0%9C%EA%B1%B0%EA%B8%B0)는 보안 프로그램을 일괄 제거할 수 있도록 도와줍니다.
 
-사용자의 프라이버시와 컴퓨터의 보안을 위협에 대한 자세한 정보은 [Wladimir Palant가 작성한 글을 한국어로 번역한 글들](https://github.com/alanleedev/KoreaSecurityApps)을 참고해주세요.
+제거가 완료되면 컴퓨터를 재부팅한 뒤 문제가 해결되었는지 확인하십시오.
 
-### 충돌하는 경우 다양한 형태의 문제가 발생함
-AdGuard for Windows와 금융 보안 소프트웨어가 충돌을 일으켜서 특정 웹 페이지나 프로그램이 작동하지 않는 경우가 있어요.
+# 비인가 AdGuard 클라이언트
 
-### 문제 해결하기
-[구라제거기](https://teus.me/category/IT/%EA%B5%AC%EB%9D%BC%EC%A0%9C%EA%B1%B0%EA%B8%B0)라는 소프트웨어로 일괄 제거하실 수 있어요.
-
-가장 최신 버전의 소프트웨어로 금융 보안 소프트웨어의 제거를 진행 후 Windows를 재부팅해주세요.
-
-### 환경을 격리해서 호스트를 보호하기
-호스트 Windows 환경과 금융 보안 소프트웨어가 설치된 환경을 쉽게 격리하시라면, [식탁보 프로젝트](https://yourtablecloth.app/)의 사용을 권장해요.
-
-아니면, 아래 중 하나를 선택해 Windows가 설치된 가상 머신을 생성하고 금융 보안 소프트웨어를 그 곳에서 설치하는 방법도 있어요:
- - [Oracle VM VirtualBox](https://www.virtualbox.org/)
- - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)
-
-# AdGuard for Android
-## Mod로 AdGuard for Android 프리미엄을 사용하는 경우
-일부 카카오톡 오픈채팅방과 티스토리 블로그에서 지식이 부족함에도 문의를 받으며 AdGuard Mod를 배포하는 경우가 있는데, 이런 경우 해당 Mod APK의 소스 코드가 [AdGuard 공식 홈페이지](https://adguard.com/ko/adguard-android/overview.html)에서 배포하는 APK의 소스 코드하고 달라 AdGuard 공식 APK에서는 발생하지 않는 증상이 나타날 수 있습니다.
+소스코드를 임의적으로 변경하는 등 비인가 AdGuard 클라이언트를 사용하는 경우에는 도움을 드릴 수 없으며 관련된 작업은 위법입니다.
