@@ -1,28 +1,30 @@
 ## AdGuard 광고 차단기 설치하기
 
-
 ## AdGuard 프리미엄을 구입하고 설치하기
-[StackSocial](https://stacksocial.com/sales/adguard-family-plan-lifetime-subscription)에서 [공식 웹 사이트](https://adguard.com) 보다 훨씬 저렴하게 AdGuard 라이선스를 구입하실 수 있어요.
 
-각 옵션에 대한 설명은 다음 표로 요약할 수 있어요:
+AdGuard 라이선스는 [StackSocial](https://stacksocial.com/sales/adguard-family-plan-lifetime-subscription)에서 [공식 웹 사이트](https://adguard.com)보다 저렴하게 구입할 수 있습니다.
 
-이름 | 추가할 수 있는 디바이스 수
+라이선스 종류 별로 추가할 수 있는 기기 수가 다릅니다:
+
+이름 | 추가할 수 있는 기기 수
 --- | ---------------------
-Personal (개인) | 3
-Family (가족) | 9
+Personal | 3
+Family | 9
 
-### AdGuard for Windows 설치하기
+### Windows용 AdGuard 설치하기
 
-[공식 웹 사이트](https://adguard.com/ko/adguard-windows/overview.html)에서 다운로드하고 설치 프로그램을 실행하세요.
+[공식 웹 사이트](https://adguard.com/ko/adguard-windows/overview.html)에서 설치 프로그램을 다운로드하고 실행하십시오.
 
-설치하신 뒤, 프로그램을 실행하시고 라이선스 탭에서 라이선스를 활성화하실 수 있어요.
+라이선스 탭에서 라이선스 등록이 가능합니다.
 
-### AdGuard for Android 설치하기
+### Android용 AdGuard 설치하기
 
 [공식 웹 사이트]()에서 다운로드하고 APK을 설치합니다.
 
-설치하신 뒤, 프로그램을 실행하시고 설정 -> 라이선스 상태에서 라이선스를 활성화하실 수 있어요.
+설정의 라이선스 상태에서 라이선스 등록이 가능합니다.
 
-**중요**: AdGuard가 Android의 배터리 최적화에 꺼질 수 있으니, 아래 방법을 참고하여 배터리 최적화에 제외해주세요:
- - **삼성 One UI 5**: Android 설정 -> 배터리 및 디바이스 케어 -> 배터리 -> 백그라운드 앱 사용 제한 -> 절전 예외 앱에서 AdGuard 앱을 추가
- - **삼성 Good Guardians의 Memory Guardian**: Memory Guardian -> 제외 대상인 앱에서 AdGuard 앱을 추가
+Android 배터리 최적화 기능으로 AdGuard 서비스가 중단될 수 있습니다.
+이를 방지하기 위해 기기에서 아래 설정을 변경해주십시오:
+
+- 삼성 One UI 5: Android 설정의 배터리 및 디바이스 케어, 배터리, 백그라운드 앱 사용 제한, 절전 예외 앱에 AdGuard를 추가
+- 삼성 굿 가디언즈: Memory Guardian 설정의 제외 대상에 AdGuard를 추가
