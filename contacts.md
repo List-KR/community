@@ -1,12 +1,10 @@
-## 앗! GitHub Discussion이나 Issue를 먼저 시도해주세요.
-대부분의 웹 사이트, AdGuard, uBlock Origin 문제는 GitHub Discussion이나 Issue를 열어서 해결될 수 있어요.
+대부분의 웹 사이트 문제는 GitHub Discussion이나 이슈를 생성하시면 도와드릴 수 있습니다.
 
-어디에 열어야 하는지 모르시면, GitHub 계정으로 로그인하여 [이 곳에서 GitHub Discussion](https://github.com/List-KR/List-KR/discussions/new/choose)을 생성해주세요.
+GitHub 계정으로 로그인 한 뒤 [새 GitHub Discussion을 생성](https://github.com/List-KR/List-KR/discussions/new/choose)을 생성하십시오.
 
-관리자 또는 유지보수자가 맞는 위치로 이동시키거나 닫은 후 다시 열어 처리할거예요.
+# 필터 관리자
 
-### List-KR 필터
-List-KR 필터의 collaborators는 다음과 같아요:
+비공개 이메일 지원이 필요하신 경우 아래 연락처로 연락바랍니다.
 
 사용자명 | 이메일 주소 | OpenPGP 공개 키 | 권한
 ------------ | -------- | ------- | --------
@@ -16,16 +14,7 @@ List-KR 필터의 collaborators는 다음과 같아요:
 [@Raiden-Ei](https://github.com/Raiden-Ei) | ei@mgi.sh | [keys.openpgp.org](https://keys.openpgp.org/search?q=ei%40mgi.sh) | 조직 Owner, Admin (List-KR)
 [@JobcenterTycoon](https://github.com/JobcenterTycoon/) | JobcenterTycoon@gmail.com | 없음 | Write (List-KR)
 
-- TLS에 의해 암호화된 일반적인 이메일 전송은 여러분의 이메일 제공자와 이메일 수신인의 이메일 제공자에 의해 읽혀질 수 있어요. 그러나, OpenPGP는 당신의 이메일을 종단간 암호화하게 해서 당신의 이메일이 **오직** 당신과 수신인만 읽을 수 있게 만들어요.
-- 아래 이메일 주소는 OpenPGP 암호화를 지원하지 않으며 알려진 OpenPGP 공개 키가 없어요:
-  - `j.w.so@adguard.com`
-  - `JobcenterTycoon@gmail.com`
-- 각 메일 도메인이 어떤 서버를 사용하시는지 궁금하시면, [checktls.com](https://www.checktls.com/TestReceiver)에 방문해보세요.
+## 면책 조항
 
-----
-
-> **Disclaimer** The assets and resources on List-KR organization **DO NOT** represent any kind of my preference, directional, or opinion unless the author is explicitly marked. The individual List-KR contributors do commit to the assets and resources at their own responsibility on Git by adding their own signature publicly, and the author of each resources and assets can be verified by checking the Git signature.
->
-> **면책** List-KR 단체의 자료와 자산은 작성자가 명백히 명시되어 있지 않는 한 제 선호, 방향, 또는 의견을 **대변하지 않습니다**. List-KR 기여자 개개인은 각자의 책임 하에 각자의 고유한 서명을 공개적으로 추가하여 Git에 자료와 자산을 기록하기에, Git 서명을 확인하여 각 자료와 자산의 작성자를 검증할 수 있습니다.
->
-> *by **HoJeong Go, a.k.a [@seia-soto on GitHub](https://github.com/seia-soto)***
+List-KR에 추가된 컨텐츠는 작성자가 명시되어 있지 않는 한 각 구성원 개인의 의견이나 방향을 대변하지 않습니다.
+구성원은 각자의 책임 하에 고유한 서명을 공개적으로 추가하여 Git에 기록하며 이는 공개적을 확인할 수 있습니다.
