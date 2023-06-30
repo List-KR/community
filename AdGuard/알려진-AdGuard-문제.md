@@ -1,3 +1,8 @@
+# CoreLibs을 기반으로 하는 시스템-단위 AdGuard
+## 웹 사이트의 로딩 시간이 길어지는 문제
+CoreLib 1.12에서 수정된 사항이 포함될 예정입니다.
+https://github.com/AdguardTeam/CoreLibs/issues/1522
+
 # Android용 AdGuard
 ## 3.x 버전 대비 4.0에서 자주 꺼지거나 필터링이 자주 재시작하는 경우
 최근에 발생한 버그이며 4.1에서 수정될 예정입니다.
