@@ -19,7 +19,7 @@ Family | 9
 
 ### Android용 AdGuard 설치하기
 
-[공식 웹 사이트]()에서 다운로드하고 APK을 설치합니다.
+[공식 웹 사이트](https://adguard.com/ko/adguard-android/overview.html)에서 다운로드하고 APK을 설치합니다.
 
 설정의 라이선스 상태에서 라이선스 등록이 가능합니다.
 
