@@ -25,7 +25,10 @@ AdGuard 프리미엄을 사용하시는 경우 스텔스 모드의 DPI로부터 
 
 Windows, Mac용 AdGuard에서는 설정, 스텔스 모드, 기타에서 활성화할 수 있습니다.
 
-Android용 AdGuard에서는 설정, 스텔스 모드, 사용자 정의의 기타에서 활성화할 수 있습니다.
+Android용 AdGuard에서는 설정, 추적 보호, 사용자 정의의 기타에서 활성화할 수 있습니다.
+
+SKT와 LG U+ 환경에서는 AdGuard의 DPI로부터 보호 기능이 정상적으로 동작하지만, KT에서는 제대로 동작하지 않고 있습니다.
+이를 해결하기 위해, [AdguardTeam/CoreLibs#1787](https://github.com/AdguardTeam/CoreLibs/issues/1789)가 열렸습니다.
 
 ## DNS
 
