@@ -19,7 +19,7 @@
 12. 프록시 포트를 `9080`로 설정해주세요.
 13. 연결 상태 확인을 눌러서, 올바르게 하셨는지 확인해주시고, 확인이 완료되면 저장을 눌러주세요.
 
-> **Notice**: 만약 VPN에 연결시키고 싶지 않은 앱이나 브라우저가 있으시다면, AdGuard for Android -> 앱 관리 -> <해당 앱> -> 프록시를 통해 앱 라우팅을 꺼주세요.
+> **Note**: 만약 VPN에 연결시키고 싶지 않은 앱이나 브라우저가 있으시다면, AdGuard for Android -> 앱 관리 -> <해당 앱> -> 프록시를 통해 앱 라우팅을 꺼주세요.
 
 #### Mullvad
 1. [Mullvad Account](https://mullvad.net/ko/account/login) 페이지에 방문해주세요.
@@ -34,7 +34,7 @@
 2. [Proton VPN의 WireGuard 페이지](https://account.proton.me/u/1/vpn/WireGuard)를 방문해주세요.
 3. Proton의 NetShield 기능을 비활성화된 설정 파일을 다운로드해주세요.
 
-> **Notice**: 정기적인 만료 기간 연장이 필요합니다.
+> **Note**: 정기적인 만료 기간 연장이 필요합니다.
 
 ### Mullvad VPN
 [AdGuard for Android와 함께 사용할 수 있도록 하는 계획](https://github.com/mullvad/mullvadvpn-app/issues/3569)은 있으나 아직 Mullvad VPN 앱에서 지원하지 않습니다.
