@@ -3,7 +3,7 @@
 CoreLib 1.12에서 수정된 사항이 포함될 예정입니다.
 https://github.com/AdguardTeam/CoreLibs/issues/1522
 
-## DPI로부터 보호가 발생시키는 웹 사이트 방문 및 콘텐츠 로드 오ㄹ
+## DPI로부터 보호가 발생시키는 웹 사이트 방문 및 콘텐츠 로드 오류
 [List-KR/anti-DPI-excepti0n](https://list-kr.github.io/anti-DPI-excepti0n/) 도구를 사용해서 예외 규칙을 생성하실 수 있습니다.
 
 
@@ -11,6 +11,7 @@ https://github.com/AdguardTeam/CoreLibs/issues/1522
 
  - AdGuard for Windows: Windows 시스템 트레이에 있는 AdGuard 로고 -> 도구 -> 필터 편집기 -> 사용자 규칙
  - AdGuard for Android: 보호 탭 -> 광고 차단 -> 사용자 규칙
+ - AdGuard for Mac: macOS 메뉴 바에 있는 AdGuard 로고 -> 설정 -> 필터 -> 사용자 규칙
 
 # Android용 AdGuard
 ## 3.x 버전 대비 4.0에서 자주 꺼지거나 필터링이 자주 재시작하는 경우
