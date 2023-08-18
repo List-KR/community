@@ -27,6 +27,8 @@ Windows, Mac용 AdGuard에서는 설정 -> 스텔스 모드 -> 기타에서 활�
 
 Android용 AdGuard에서는 보호 탭 -> 추적 보호 -> 사용자 정의로 변경하신 후에 기타에서 활성화할 수 있습니다.
 
+iOS용 AdGuard는 아직 지원하지 않으나, 관련하여 요청하는 [AdguardTeam/AdguardForiOS#2076](https://github.com/AdguardTeam/AdguardForiOS/issues/2076)가 열려있습니다.
+
 SKT와 LG U+ 환경에서는 AdGuard의 DPI로부터 보호 기능이 정상적으로 동작하지만, KT에서는 제대로 동작하지 않고 있습니다.
 이를 해결하기 위해, [AdguardTeam/CoreLibs#1787](https://github.com/AdguardTeam/CoreLibs/issues/1789)가 열렸습니다.
 
