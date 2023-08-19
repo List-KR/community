@@ -3,6 +3,9 @@
 CoreLib 1.12에서 수정된 사항이 포함될 예정입니다.
 https://github.com/AdguardTeam/CoreLibs/issues/1522
 
+연계된 issue
+ - AdGuard for Windows: [AdguardTeam/AdguardForWindows#4777](https://github.com/AdguardTeam/AdguardForWindows/issues/4777)
+
 ## DPI로부터 보호가 발생시키는 웹 사이트 방문 및 콘텐츠 로드 오류
 [List-KR/anti-DPI-excepti0n](https://list-kr.github.io/anti-DPI-excepti0n/) 도구를 사용해서 예외 규칙을 생성하실 수 있습니다.
 
