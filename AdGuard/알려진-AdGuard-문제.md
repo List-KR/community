@@ -1,11 +1,4 @@
 # CoreLibs을 기반으로 하는 시스템-단위 AdGuard
-## 웹 사이트의 로딩 시간이 길어지는 문제
-CoreLib 1.12에서 수정된 사항이 포함될 예정입니다.
-https://github.com/AdguardTeam/CoreLibs/issues/1522
-
-연계된 issue
- - AdGuard for Windows: [AdguardTeam/AdguardForWindows#4777](https://github.com/AdguardTeam/AdguardForWindows/issues/4777)
-
 ## DPI로부터 보호가 발생시키는 웹 사이트 방문 및 콘텐츠 로드 오류
 [List-KR/anti-DPI-excepti0n](https://list-kr.github.io/anti-DPI-excepti0n/) 도구를 사용해서 예외 규칙을 생성하실 수 있습니다.
 
@@ -17,9 +10,16 @@ https://github.com/AdguardTeam/CoreLibs/issues/1522
  - AdGuard for Mac: macOS 메뉴 바에 있는 AdGuard 로고 -> 설정 -> 필터 -> 사용자 규칙
 
 # Android용 AdGuard
-## 3.x 버전 대비 4.0에서 자주 꺼지거나 필터링이 자주 재시작하는 경우
+## ~~3.x 버전 대비 4.0에서 자주 꺼지거나 필터링이 자주 재시작하는 경우~~
 최근에 발생한 버그이며 4.1에서 수정될 예정입니다.
 https://github.com/AdguardTeam/AdguardForAndroid/issues/4707
+
+## 웹 사이트의 로딩 시간이 길어지는 문제
+CoreLib 1.12에서 수정된 사항이 포함될 예정입니다.
+https://github.com/AdguardTeam/CoreLibs/issues/1522
+
+연계된 issue
+ - AdGuard for Windows: [AdguardTeam/AdguardForWindows#4777](https://github.com/AdguardTeam/AdguardForWindows/issues/4777)
 
 # Windows용 AdGuard
 ## 보안 프로그램 충돌
