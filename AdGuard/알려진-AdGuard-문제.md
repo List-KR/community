@@ -15,7 +15,7 @@
         - AdGuard for Windows: Windows 시스템 트레이에서 AdGuard 아이콘을 우클릭하시고 `필터 업데이트 확인`를 눌러주세요.
         - AdGuard for Android: AdGuard 홈에 있는 업데이트 버튼을 눌러주세요.
     - 필터 업데이트 주기를 1일 이하로 설정하여 업데이트 속도를 개선하실 수 있습니다.
-2. Enhancer for YouTube를 비롯한 YouTube 사용자 환경을 개선하는 브라우저 홛장 프로그램을 비활성화하시거나 제거해보세요.
+2. Enhancer for YouTube를 비롯한 YouTube 사용자 환경을 개선하는 브라우저 확장 프로그램을 비활성화하시거나 제거해보세요.
 3. 브라우저의 캐시, 쿠키와 사이트 데이터를 삭제해보세요.
 
 위 절차를 마치셔도 변화가 없다면, filters@adguard.com 나 사이드바의 연락처에서 @piquark6046 이메일로 연락해주세요.
