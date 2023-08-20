@@ -36,13 +36,6 @@
 최근에 발생한 버그이며 4.1에서 수정될 예정입니다.
 https://github.com/AdguardTeam/AdguardForAndroid/issues/4707
 
-## 웹 사이트의 로딩 시간이 길어지는 문제
-CoreLib 1.12에서 수정된 사항이 포함될 예정입니다.
-https://github.com/AdguardTeam/CoreLibs/issues/1522
-
-연계된 issue
- - AdGuard for Windows: [AdguardTeam/AdguardForWindows#4777](https://github.com/AdguardTeam/AdguardForWindows/issues/4777)
-
 # Windows용 AdGuard
 ## 보안 프로그램 충돌
 
@@ -59,6 +52,13 @@ AdGuard와 동시에 사용할 때 웹 사이트 접속 불가 등의 문제가 
 아니면, 아래 중 하나를 선택해 Windows가 설치된 가상 머신을 생성하고 금융 보안 소프트웨어를 그 곳에서 설치하는 방법도 있습니다:
  - [Oracle VM VirtualBox](https://www.virtualbox.org/)
  - [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html)
+
+## 웹 사이트의 로딩 시간이 길어지는 문제
+CoreLib 1.12에서 수정된 사항이 포함될 예정입니다.
+https://github.com/AdguardTeam/CoreLibs/issues/1522
+
+연계된 issue
+ - AdGuard for Windows: [AdguardTeam/AdguardForWindows#4777](https://github.com/AdguardTeam/AdguardForWindows/issues/4777)
 
 # 비인가 AdGuard 클라이언트
 
