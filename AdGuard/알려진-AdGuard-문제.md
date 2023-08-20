@@ -1,3 +1,19 @@
+# 공통
+## YouTube에서 애드블록을 해제하라는 팝업이 표시됨
+![YouTube anti-adblock](https://camo.githubusercontent.com/77fa7db127d9f2aa8414504928edef2225935b5758eb673ea814e24c78a629aa/68747470733a2f2f63646e2e6164746964792e6f72672f736974657265706f7274732f31656f6d313565676a6f6a6f6b6730386f7338676738306f636b6377633434356530747631306f6d6c6f2e706e673f6e633d31)
+
+위 사진처럼 팝업이 표시되거나 비슷한 내용으로 YouTube 비디오 플레이어가 가려진다면, 아래 지침을 따라주시고 각 절차를 마친 후에 YouTube 웹 페이지가 열린 탭을 새로고침해보세요:
+1. 필터 업데이트를 시도해보세요.
+    - 각 AdGuard 제품에서 필터 업데이트 버튼은 아래 경로로 찾을 수 있습니다:
+        - AdGuard 브라우저 확장: 브라우저 확장 아이콘 버튼에 있는 AdGuard나 브라우저 툴바에 있는 AdGuard를 우클릭하시고 `AdGuard 광고 차단기` -> `필터 업데이트`를 눌러주세요.
+        - AdGuard for Windows: Windows 시스템 트레이에서 AdGuard 아이콘을 우클릭하시고 `필터 업데이트 확인`를 눌러주세요.
+        - AdGuard for Android: AdGuard 홈에 있는 업데이트 버튼을 눌러주세요.
+    - 필터 업데이트 주기를 1일 이하로 설정하여 업데이트 속도를 개선하실 수 있습니다.
+2. Enhancer for YouTube를 비롯한 YouTube 사용자 환경을 개선하는 브라우저 홛장 프로그램을 비활성화하시거나 제거해보세요.
+3. 브라우저의 캐시, 쿠키와 사이트 데이터를 삭제해보세요.
+
+위 절차를 마치셔도 변화가 없다면, filters@adguard.com 나 사이드바의 연락처에서 @piquark6046 이메일로 연락해주세요.
+
 # CoreLibs을 기반으로 하는 시스템-단위 AdGuard
 ## DPI로부터 보호가 발생시키는 웹 사이트 방문 및 콘텐츠 로드 오류
 [List-KR/anti-DPI-excepti0n](https://list-kr.github.io/anti-DPI-excepti0n/) 도구를 사용해서 예외 규칙을 생성하실 수 있습니다.
