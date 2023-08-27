@@ -1,47 +1,21 @@
 ---
+title: '홈페이지'
 sidebar_position: 1
+slug: /
 ---
 
-# Tutorial Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+대부분의 웹 사이트 문제는 GitHub Discussion이나 이슈를 생성하시면 도와드릴 수 있습니다.
 
-## Getting Started
+GitHub 계정으로 로그인 한 뒤 [새 GitHub Discussion을 생성](https://github.com/orgs/List-KR/discussions)을 생성하십시오.
 
-Get started by **creating a new site**.
+# 필터 관리자
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+비공개 이메일 지원이 필요하신 경우 아래 연락처로 연락바랍니다.
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+사용자명 | 이메일 주소 | OpenPGP 공개 키 | 권한
+------------ | -------- | ------- | --------
+[@piquark6046](https://github.com/piquark6046) | piquark6046@proton.me j.w.so@adguard.com | [keys.openpgp.org](https://keys.openpgp.org/search?q=piquark6046%40proton.me) [keys.mailvelope.com](https://keys.mailvelope.com/pks/lookup?op=get&search=piquark6046%40proton.me) | 조직 Owner, Admin (List-KR)
+[@green1052](https://github.com/green1052) | green1052@pm.me | [keys.openpgp.org](https://keys.openpgp.org/search?q=green1052%40pm.me) | Write (List-KR)
+[@Raiden-Ei](https://github.com/Raiden-Ei) | ei@mgi.sh | [keys.openpgp.org](https://keys.openpgp.org/search?q=ei%40mgi.sh) | 조직 Owner, Admin (List-KR)
+[@JobcenterTycoon](https://github.com/JobcenterTycoon/) | JobcenterTycoon@gmail.com | 없음 | Write (List-KR)

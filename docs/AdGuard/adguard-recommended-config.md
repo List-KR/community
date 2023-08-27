@@ -1,3 +1,9 @@
+---
+title: AdGuard 권장 설정
+sidebar_position: 2
+---
+
+
 ## 필터
 
 ### AdGuard (애드가드) 공통
