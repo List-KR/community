@@ -1,3 +1,9 @@
+---
+title: 알려진 AdGuard 문제
+sidebar_position: 4
+---
+
+
 # 공통
 ## YouTube에서 애드블록을 해제하라는 팝업이 표시됨
 

@@ -1,4 +1,7 @@
-## AdGuard 광고 차단기 설치하기
+---
+title: AdGuard 설치하기
+sidebar_position: 1
+---
 
 ## AdGuard 프리미엄을 구입하고 설치하기
 
