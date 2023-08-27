@@ -5,7 +5,11 @@ sidebar_position: 1
 
 ## AdGuard 프리미엄을 구입하고 설치하기
 
+:::tip
+
 AdGuard 라이선스는 [StackSocial](https://stacksocial.com/sales/adguard-family-plan-lifetime-subscription)에서 [공식 웹 사이트](https://adguard.com)보다 저렴하게 구입할 수 있습니다.
+
+:::
 
 라이선스 종류 별로 추가할 수 있는 기기 수가 다릅니다:
 
