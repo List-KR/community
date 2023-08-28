@@ -5,6 +5,6 @@ import { Redirect } from '@docusaurus/router';
 export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <Redirect to='/docs/intro'/>
+    <Redirect to='/docs/'/>
   );
 }
