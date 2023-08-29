@@ -132,7 +132,7 @@ const config = {
             items: [
               {
                 label: 'anti-DPI-excepti0n',
-                to: 'https://github.com/List-KR/anti-DPI-excepti0n'
+                to: 'https://list-kr.github.io/anti-DPI-excepti0n/'
               },
               {
                 label: 'filter-customizer',
