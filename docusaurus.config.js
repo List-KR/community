@@ -163,7 +163,12 @@ const config = {
           ],
           apiKey: process.env.TYPESENSE_API_KEY
         }
-      }
+      },
+      plugins: [
+        'docusaurus2-dotenv', {
+          'systenv': true
+        }
+      ]
     }),
 };
 
