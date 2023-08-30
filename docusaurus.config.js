@@ -1,6 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+require('dotenv').config();
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -163,13 +164,8 @@ const config = {
           ],
           apiKey: process.env.TYPESENSE_API_KEY
         }
-      },
-      plugins: [
-        'docusaurus2-dotenv', {
-          'systenv': true
-        }
-      ]
-    }),
+      }
+    })
 };
 
 module.exports = config;
