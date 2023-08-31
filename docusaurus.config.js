@@ -1,7 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-require('dotenv').config();
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -50,7 +49,6 @@ const config = {
       }),
     ],
   ],
-  themes: ['docusaurus-theme-search-typesense'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -151,19 +149,6 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      },
-      typesense: {
-        typesenseCollectionName: 'list-kr-community',
-        typesenseServerConfig: {
-          nodes: [
-            {
-              host: process.env.TYPESENSE_HOST,
-              port: process.env.TYPESENSE_PORT,
-              protocol: process.env.TYPESENSE_PROTOCOL
-            }
-          ],
-          apiKey: process.env.TYPESENSE_API_KEY
-        }
       }
     })
 };
