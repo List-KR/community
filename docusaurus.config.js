@@ -1,7 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-require('dotenv').config();
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
@@ -157,12 +156,12 @@ const config = {
         typesenseServerConfig: {
           nodes: [
             {
-              host: process.env.TYPESENSE_HOST,
-              port: process.env.TYPESENSE_PORT,
-              protocol: process.env.TYPESENSE_PROTOCOL
+              host: 'typesense.piquark6046.dev',
+              port: 443,
+              protocol: 'https'
             }
           ],
-          apiKey: process.env.TYPESENSE_API_KEY
+          apiKey: 'WVVoaKonu2twwjC9YSAVSU3HLavk9ySAbeiuRXa5amUTAyvpTk'
         }
       }
     })
