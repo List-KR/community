@@ -3529,7 +3529,7 @@ dns-packet@^5.2.2:
   dependencies:
     "@leichtgewicht/ip-codec" "^2.0.1"
 
-docusaurus-theme-search-typesense@^0.12.0-0:
+docusaurus-theme-search-typesense@^0.12.0:
   version "0.12.0"
   resolved "https://registry.npmjs.org/docusaurus-theme-search-typesense/-/docusaurus-theme-search-typesense-0.12.0.tgz"
   integrity sha512-jPbw4mm1asWStZAXMvsN+QIKqu7QINV0kuzQIyH1kS/RxMApEW05f5FJ2z55j4ng1g9wcNRrg5DPt3Rj8f+Jxg==
@@ -6664,9 +6664,9 @@ schema-utils@2.7.0:
     ajv-keywords "^3.4.1"
 
 "search-insights@>= 1 < 3":
-  version "2.7.0"
-  resolved "https://registry.npmjs.org/search-insights/-/search-insights-2.7.0.tgz"
-  integrity sha512-GLbVaGgzYEKMvuJbHRhLi1qoBFnjXZGZ6l4LxOYPCp4lI2jDRB3jPU9/XNhMwv6kvnA9slTreq6pvK+b3o3aqg==
+  version "2.8.0"
+  resolved "https://registry.npmjs.org/search-insights/-/search-insights-2.8.0.tgz"
+  integrity sha512-VzI4PMktJbydkbrF3/n40vFfRxdwg+o3CkQt0F3mHRSXVuv0PsVxQvB6mQQq/e9MCXAemcmp/GP9CNHpayFoCw==
 
 section-matter@^1.0.0:
   version "1.0.0"
