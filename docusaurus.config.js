@@ -1,7 +1,14 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-require('dotenv').config();
+let fs = require('fs')
+fs.readdirSync('.').forEach(file => {
+  if (file.includes('env')) {
+    console.log(file)
+    require('dotenv').config({ path: file })
+  }
+})
+
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
