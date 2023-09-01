@@ -4,10 +4,6 @@ sidebar_position: 1
 slug: /
 ---
 
-<head>
-  <meta name="google-site-verification" content="GsgoCP3kPJHC9R9qlY-Zeri-K7Mg8wdMW1R8PgSxnKg" />
-</head>
-
 대부분의 웹 사이트 문제는 GitHub Discussion이나 이슈를 생성하시면 도와드릴 수 있습니다.
 
 GitHub 계정으로 로그인 한 뒤 [새 GitHub Discussion을 생성](https://github.com/orgs/List-KR/discussions)을 생성하십시오.
