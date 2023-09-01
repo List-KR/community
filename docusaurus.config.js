@@ -58,6 +58,13 @@ const config = {
     ],
   ],
   themes: ['docusaurus-theme-search-typesense'],
+  plugins: [
+    ['@docusaurus/plugin-sitemap', {
+      changefreq: 'weekly',
+      priority: 0.5,
+      filename: 'sitemap.xml'
+    }]
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
