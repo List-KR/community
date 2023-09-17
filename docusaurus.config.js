@@ -40,6 +40,8 @@ const config = {
     locales: ['ko-kr'],
   },
 
+  staticDirectories: ['static'],
+
   presets: [
     [
       'classic',
