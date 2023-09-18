@@ -58,16 +58,10 @@ const config = {
         },
         sitemap: {
           changefreq: 'weekly',
-          priority: 0.5
+          priority: 1.0,
+          filename: 'sitemap.xml'
         }
       }),
-    ],
-    [
-      '@docusaurus/plugin-sitemap', {
-        changefreq: 'weekly',
-        priority: 0.5,
-        filename: 'sitemap.xml'
-      }
     ]
   ],
   themes: ['docusaurus-theme-search-typesense'],
