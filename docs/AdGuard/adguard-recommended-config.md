@@ -38,7 +38,7 @@ iOS용 AdGuard는 아직 지원하지 않으나, 관련하여 요청하는 [Adgu
 SKT와 LG U+ 환경에서는 AdGuard의 DPI로부터 보호 기능이 정상적으로 동작하지만, KT에서는 제대로 동작하지 않고 있습니다.
 이를 해결하기 위해, [AdguardTeam/CoreLibs#1787](https://github.com/AdguardTeam/CoreLibs/issues/1789)가 열렸습니다.
 
-만약, DPI로부터 보호 기능이 다른 웹 사이트에서 오작동하여 해당 웹 사이트에 방문할 수 없거나 콘텐츠를 제대로 로드할 수 없는 경우, [List-KR/anti-DPI-excepti0n](https://list-kr.github.io/anti-DPI-excepti0n/) 도구를 사용해서 예외 규칙을 생성하실 수 있습니다.
+만약, DPI로부터 보호 기능이 다른 웹 사이트에서 오작동하여 해당 웹 사이트에 방문할 수 없거나 콘텐츠를 제대로 로드할 수 없는 경우, [List-KR/anti-DPI-excepti0n](https://anti-dpi-excepti0n.list-kr.com/) 도구를 사용해서 예외 규칙을 생성하실 수 있습니다.
 이러한 예외 규칙은 아래 위치에서 적용하실 수 있습니다:
 - AdGuard for Windows: Windows 시스템 트레이에 있는 AdGuard 로고 -> 도구 -> 필터 편집기 -> 사용자 규칙
 - AdGuard for Android: 보호 탭 -> 광고 차단 -> 사용자 규칙

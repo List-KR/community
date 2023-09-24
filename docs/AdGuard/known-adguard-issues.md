@@ -24,11 +24,11 @@ sidebar_position: 4
 2. Enhancer for YouTube를 비롯한 YouTube 사용자 환경을 개선하는 브라우저 확장 프로그램을 비활성화하시거나 제거해보세요.
 3. 브라우저의 캐시, 쿠키와 사이트 데이터를 삭제해보세요.
 
-위 절차를 마치셔도 변화가 없다면, filters@adguard.com 나 사이드바의 연락처에서 @piquark6046 이메일로 연락해주세요.
+위 절차를 마치셔도 변화가 없다면, filters@adguard.com 나 홈페이지의 연락처에서 @piquark6046 이메일로 연락해주세요.
 
 # CoreLibs을 기반으로 하는 시스템-단위 AdGuard
 ## DPI로부터 보호가 발생시키는 웹 사이트 방문 및 콘텐츠 로드 오류
-[List-KR/anti-DPI-excepti0n](https://list-kr.github.io/anti-DPI-excepti0n/) 도구를 사용해서 예외 규칙을 생성하실 수 있습니다.
+[List-KR/anti-DPI-excepti0n](https://anti-dpi-excepti0n.list-kr.com/) 도구를 사용해서 예외 규칙을 생성하실 수 있습니다.
 
 
 이러한 예외 규칙은 아래 위치에서 AdGuard에 추가하실 수 있습니다:
