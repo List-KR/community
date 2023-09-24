@@ -16,7 +16,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'List-KR Community',
   tagline: 'Docs of List-KR Community',
-  favicon: 'img/list-kr.jpeg',
+  favicon: 'list-kr.jpeg',
 
   // Set the production url of your site here
   url: 'https://list-kr-community.pages.dev',
