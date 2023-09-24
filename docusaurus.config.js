@@ -69,7 +69,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/list-kr.jpeg',
+      image: 'list-kr.jpeg',
       docs: {
         sidebar: {
           hideable: true
@@ -83,7 +83,7 @@ const config = {
         title: 'List-KR 커뮤니티',
         logo: {
           alt: 'List-KR Logo',
-          src: 'img/list-kr.jpeg',
+          src: 'list-kr.jpeg',
         },
         items: [
           {
