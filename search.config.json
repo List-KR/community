@@ -1,10 +1,10 @@
 {
   "index_name": "list-kr-community",
   "start_urls": [
-    "https://list-kr-community.pages.dev/"
+    "https://community.list-kr.com/"
   ],
   "sitemap_urls": [
-    "https://list-kr-community.pages.dev/sitemap.xml"
+    "https://community.list-kr.com/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "selectors": {
