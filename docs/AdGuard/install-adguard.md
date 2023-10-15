@@ -1,6 +1,6 @@
 ---
 title: AdGuard 설치하기
-sidebar_position: 1
+sidebar_position: 4
 ---
 
 ## AdGuard 프리미엄을 구입하고 설치하기

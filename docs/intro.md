@@ -1,5 +1,5 @@
 ---
-title: '홈페이지'
+title: '홈페이지 및 연락처'
 sidebar_position: 1
 slug: /
 ---

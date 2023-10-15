@@ -1,6 +1,6 @@
 ---
 title: AdGuard 권장 설정
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 
