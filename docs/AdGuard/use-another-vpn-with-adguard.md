@@ -27,7 +27,7 @@ sidebar_position: 5
 
 :::tip
 
-만약 VPN에 연결시키고 싶지 않은 앱이나 브라우저가 있으시다면, AdGuard for Android -> 앱 관리 -> <해당 앱> -> 프록시를 통해 앱 라우팅을 꺼주세요.
+만약 VPN에 연결시키고 싶지 않은 앱이나 브라우저가 있으시다면, AdGuard for Android -> 앱 관리 -> [해당 앱] -> 프록시를 통해 앱 라우팅을 꺼주세요.
 
 :::
 #### Mullvad
