@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 import ReactPlayer from 'react-player'
 
-:::caution 다른 브라우  저 확장 프로그램 및 애드블록 간의 충돌 주의
+:::caution 다른 브라우저 확장 프로그램 및 애드블록 간의 충돌 주의
 
 예상치 못한 브라우저 확장 프로그램이 안티-애드블록 팝업을 뜨게 만들 수 있습니다.
 [이 목차](https://community.list-kr.com/docs/uBO/KnownIssues/youtube-anti-adblock#%EC%95%8C%EB%A0%A4%EC%A7%84-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EB%93%A4)를 참고하셔서 알려진 브라우저 확장 프로그램들을 비활성화하시거나 삭제해주세요.
@@ -14,6 +14,20 @@ uBlock Origin 외 다른 애드블록[^1] 이 설치되어 있다면, YouTube �
 [^1]: [Microsoft Edge의 추적 방지 기능 (엄격)](edge://settings/privacy)을 포함한 브라우저 빌트인 애드블록이 포함됩니다.
 
 :::caution
+
+:::caution YouTube 안티-애드블록을 차단하기 위해 작성된 유저스크립트 주의
+
+[TheRealJoelmatic/RemoveAdblockThing](https://github.com/TheRealJoelmatic/RemoveAdblockThing)을 비롯한 YouTube 안티-애드블록을 차단하기 위해 배포되는 유저스크립트들이 광고를 시청했다고 알리기 위해 비디오 광고를 허용한 채 배속 재생 및 자동 스킵을 하는 경우가 있습니다.
+
+그러나, 최근에 YouTube에서 읽기 전용의 Javascript `Event`의 `isTrusted` 속성[^2]을 사용하여 이러한 유저스크립트를 감지하려고 하고 있습니다. [^3]
+
+따라서, 이러한 방법을 사용하는 유저스크립트와 브라우저 확장 프로그램을 모두 비활성화하시거나 제거해주세요.
+
+[^2]: https://developer.mozilla.org/en-US/docs/Web/API/Event/isTrusted
+[^3]: https://www.youtube.com/s/player/190c935f/player_ias.vflset/en_US/base.js
+
+:::caution
+
 
 <details><summary>YouTube 안티-애드블록 예시 이미지</summary>
 
@@ -52,9 +66,9 @@ uBlock Origin 외 다른 애드블록[^1] 이 설치되어 있다면, YouTube �
 
 캐시, 사이트 데이터와 쿠키를 삭제하신 뒤에 웹 사이트에 다시 로그인해야 할 수 있습니다.
 
-더욱 편리한 계정 관리를 위해 [Bitwarden](https://bitwarden.com/)[^2]이나 [KeePassXC](https://keepassxc.org/) 같은 비밀번호 매니저를 추천드립니다.
+더욱 편리한 계정 관리를 위해 [Bitwarden](https://bitwarden.com/)[^4]이나 [KeePassXC](https://keepassxc.org/) 같은 비밀번호 매니저를 추천드립니다.
 
-[^2]: 셀프-호스팅하신다면, [vaultwarden](https://github.com/dani-garcia/vaultwarden)이라는 옵션도 있습니다.
+[^4]: 셀프-호스팅하신다면, [vaultwarden](https://github.com/dani-garcia/vaultwarden)이라는 옵션도 있습니다.
 
 :::
 
@@ -71,10 +85,10 @@ uBlock Origin 외 다른 애드블록[^1] 이 설치되어 있다면, YouTube �
 
 :::tip
 
-웹 브라우저의 브라우저 확장 프로그램 관리 페이지[^3]에서 uBlock Origin와 유저스크립트 매니저[^4]를 제외한 브라우저 확장 프로그램을 모두 비활성화하셔서 빠르게 점검하시길 추천드립니다.
+웹 브라우저의 브라우저 확장 프로그램 관리 페이지[^5]에서 uBlock Origin와 유저스크립트 매니저[^6]를 제외한 브라우저 확장 프로그램을 모두 비활성화하셔서 빠르게 점검하시길 추천드립니다.
 
-[^3]: [Mozilla Firefox](about:addons); [Google Chrome](chrome://extensions/); [Microsoft Edge](edge://extensions/); [네이버 웨일](whale://extensions/); URL를 복사 하신 후에 새 탭에 붙여넣어 방문해주세요.
-[^4]: 유저스크립트 매니저에 설치된 YouTube 웹 사이트에서 실행되는 유저스크립트도 영향을 줄 수 있습니다.
+[^5]: [Mozilla Firefox](about:addons); [Google Chrome](chrome://extensions/); [Microsoft Edge](edge://extensions/); [네이버 웨일](whale://extensions/); URL를 복사 하신 후에 새 탭에 붙여넣어 방문해주세요.
+[^6]: 유저스크립트 매니저에 설치된 YouTube 웹 사이트에서 실행되는 유저스크립트도 영향을 줄 수 있습니다.
 
 :::
 
