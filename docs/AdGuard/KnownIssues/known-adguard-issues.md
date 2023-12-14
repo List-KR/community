@@ -5,6 +5,19 @@ sidebar_position: 2
 
 
 # CoreLibs을 기반으로 하는 시스템-단위 AdGuard
+## 다수의 HTTPS가 적용된 웹 사이트에서 필터링이 적용되지 않음
+다수의 HTTPS가 적용된 웹 사이트에서 필터링이 적용되지 않는 문제는 CoreLibs 1.12에 추가된 [인증서 투명성 검증](https://developer.mozilla.org/ko/docs/Web/Security/Certificate_Transparency) 코드가 발생시키고 있습니다.
+
+[관련된 CoreLibs GitHub issue](https://github.com/AdguardTeam/CoreLibs/issues/1833)
+
+이 문제는 각 아래에 있는 버전이 안정 채널에 배포되면 해결됩니다:
+
+ - AdGuard for Windows: [7.16](https://github.com/AdguardTeam/AdguardForWindows/issues/4954)
+ - AdGuard for Android: [4.3](https://github.com/AdguardTeam/AdguardForAndroid/issues/5107)
+ - AdGuard for Mac: [2.13](https://github.com/AdguardTeam/AdguardForMac/issues/1355)
+
+또는, 임시 방편으로 베타 채널로 구독하시는 채널을 변경하셔서 업데이트하시면 됩니다.
+
 ## DPI로부터 보호가 발생시키는 웹 사이트 방문 및 콘텐츠 로드 오류
 [List-KR/anti-DPI-excepti0n](https://anti-dpi-excepti0n.list-kr.com/) 도구를 사용해서 예외 규칙을 생성하실 수 있습니다.
 
