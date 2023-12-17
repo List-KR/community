@@ -15,7 +15,7 @@ Windows, Android, iOS, Mac용 AdGuard와 브라우저 확장프로그램에서 �
 - AdGuard URL 추격 필터 (개인정보 보호)
 - List-KR (특정 언어)
 
-일본어 웹 사이트를 자주 방문하신다면 추가로 AdGuard 일본어 필터(특정 언어)도 활성화하십시오.
+일본어 웹 사이트를 자주 방문하신다면 추가로 AdGuard 일본어 필터(특정 언어)도 활성화해주세요.
 
 ### 모바일 환경
 
@@ -44,13 +44,21 @@ SKT와 LG U+ 환경에서는 AdGuard의 DPI로부터 보호 기능이 정상적�
 - AdGuard for Android: 보호 탭 -> 광고 차단 -> 사용자 규칙
 - AdGuard for Mac: macOS 메뉴 바에 있는 AdGuard 로고 -> 설정 -> 필터 -> 사용자 규칙
 
+## 유저스크립트
+
+특수한 광고를 차단하기 위해서는 microShield와 NamuLink 유저스크립트 설치가 필요합니다.
+
+각 페이지를 참고하셔서 설치를 진행해주세요:
+ - microShield: https://community.list-kr.com/docs/AdGuard/Userscripts/microShield
+ - NamuLink: https://community.list-kr.com/docs/AdGuard/Userscripts/NamuLink
+
 ## DNS
 
 대한민국에서 가장 가까운 AdGuard DNS 서버는 일본에 위치해 있습니다.
 
-DNS 필터링은 웹 사이트에서 의도하지 않은 오작동을 유발할 수 있으니 일반적인 사용 환경에서는 사용을 권장하지 않습니다.
+Android에서 DNS 필터링은 웹 사이트에서 의도하지 않은 오작동을 유발할 수 있으니 일반적인 사용 환경에서는 사용을 권장하지 않습니다.
 
-iOS용 AdGuard Pro에서는 DNS 필터링에 아래 URL을 사용하여 List-KR DNS를 추가할 수 있습니다.
+iOS용 AdGuard에서는 앱 광고 필터링을 위해 DNS 필터링에 아래 URL을 사용하여 List-KR DNS를 추가할 수 있습니다.
 
 ```
 https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
