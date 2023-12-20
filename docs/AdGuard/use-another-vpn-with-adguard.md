@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ## AdGuard for Android
 ### 표준 WireGuard 프로트콜를 로컬 프록시로 변환하는 방법으로 시작하기 [출처]
-1. 자유 소프트웨어인 [SagerNet](https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet)를 설치해주세요. 소스 코드는 [GitHub](https://github.com/SagerNet/SagerNet)에서 보실 수 있습니다.
+1. 자유 소프트웨어인 [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)를 설치해주세요.
 2. 아래 VPN 서비스 중에 사용하실 VPN 서비스를 선택하시고 해당 섹션에 있는 방법을 참고하여 WireGuard 구성 파일을 다운로드해주세요.
 3. AdGuard for Android -> 앱 관리에서 SagerNet 앱을 검색하시고 그 앱의 세부 설정으로 진입해주세요.
 4. `AdGuard를 통해 트래픽을 라우팅 옵션`을 비롯한 모든 세부 옵션을 꺼주세요.
