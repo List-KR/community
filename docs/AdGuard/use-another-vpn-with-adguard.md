@@ -8,16 +8,16 @@ sidebar_position: 5
 ### 표준 WireGuard 프로트콜를 로컬 프록시로 변환하는 방법으로 시작하기 [출처]
 1. 자유 소프트웨어인 [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid)를 설치해주세요.
 2. 아래 VPN 서비스 중에 사용하실 VPN 서비스를 선택하시고 해당 섹션에 있는 방법을 참고하여 WireGuard 구성 파일을 다운로드해주세요.
-3. AdGuard for Android -> 앱 관리에서 SagerNet 앱을 검색하시고 그 앱의 세부 설정으로 진입해주세요.
+3. AdGuard for Android -> 앱 관리에서 NekoBox 앱을 검색하시고 그 앱의 세부 설정으로 진입해주세요.
 4. `AdGuard를 통해 트래픽을 라우팅 옵션`을 비롯한 모든 세부 옵션을 꺼주세요.
-5. Sager 앱에서 파일 추가 버튼 -> `파일에서 불러오기` 항목을 누르시고, 해당 파일을 로드해주세요.
-6. Sager 앱 메뉴 -> 설정에서 다음 항목을 모두 변경해주시고 맞는지 확인해주세요:
+5. NekoBox 앱에서 파일 추가 버튼 -> `파일에서 불러오기` 항목을 누르시고, 해당 파일을 로드해주세요.
+6. NekoBox 앱 메뉴 -> 설정에서 다음 항목을 모두 변경해주시고 맞는지 확인해주세요:
     - 서비스 모드: 프록시
     - Bypass LAN: 켬
     - Enable Traffic Sniffing: 켬
     - HTTP 인바운드 활성화: 켬
     - Append HTTP Proxy to VPN: 끔
-7. Sager 홈에서 연결하실 연결 프로필을 선택하시고 종이비행기가 있는 연결 버튼을 눌러주세요.
+7. NekoBox 홈에서 연결하실 연결 프로필을 선택하시고 종이비행기가 있는 연결 버튼을 눌러주세요.
 8. AdGuard for Android -> 설정 -> 필터링 -> 네트워크 -> 프록시의 메인 스위치를 켜주세요.
 9. AdGuard for Android -> 설정 -> 필터링 -> 네트워크 -> 프록시 -> 프록시 서버에서 `프록시 서버 추가` 버튼을 눌러주세요.
 10. 프록시 유형을 `HTTP`로 변경해주세요.
