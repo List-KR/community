@@ -60,7 +60,7 @@ Android에서 DNS 필터링은 웹 사이트에서 의도하지 않은 오작동
 
 iOS용 AdGuard에서는 앱 광고 필터링을 위해 DNS 필터링에 아래 URL을 사용하여 List-KR DNS를 추가할 수 있습니다.
 
-만약 DNS 서버를 설정하시기 원하시면, DPI 보호가 켜진 상태에서는 Cloudflare를, 보호가 꺼진 상태에서는 시스템 기본값을 선택해주세요.
+만약 DNS 서버를 설정하시기 원하시면, DPI 보호가 켜진 상태에서는 Cloudflare를, 보호가 꺼진 상태에서는 시스템 기본값을 선택해주세요. (만약 모바일 네트워크와 Wi-Fi간의 변경으로 인해 모바일에서 통신이 원할하지 않는다면, DNS 서버를 Cloudflare로 변경해보세요.)
 
 ```
 https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
