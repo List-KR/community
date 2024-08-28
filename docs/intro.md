@@ -16,5 +16,4 @@ GitHub 계정으로 로그인 한 뒤 [새 GitHub Discussion을 생성](https://
 ------------ | -------- | ------- | --------
 [@piquark6046](https://github.com/piquark6046) | piquark6046@proton.me j.w.so@adguard.com | [keys.openpgp.org](https://keys.openpgp.org/search?q=piquark6046%40proton.me) [keys.mailvelope.com](https://keys.mailvelope.com/pks/lookup?op=get&search=piquark6046%40proton.me) | 조직 Owner, Admin (List-KR)
 [@green1052](https://github.com/green1052) | green1052@pm.me | [keys.openpgp.org](https://keys.openpgp.org/search?q=green1052%40pm.me) | Write (List-KR)
-[@filostack](https://github.com/filostack) | ei@mgi.sh | [keys.openpgp.org](https://keys.openpgp.org/search?q=ei%40mgi.sh) | 조직 Owner, Admin (List-KR)
 [@JobcenterTycoon](https://github.com/JobcenterTycoon/) | JobcenterTycoon@gmail.com | 없음 | Write (List-KR)
