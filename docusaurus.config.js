@@ -19,7 +19,7 @@ const config = {
   favicon: 'list-kr.jpeg',
 
   // Set the production url of your site here
-  url: 'https://community.list-kr.com',
+  url: 'https://list-kr-community.pages.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -31,14 +31,6 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'ko-kr',
-    locales: ['ko-kr'],
-  },
 
   staticDirectories: ['static'],
 
@@ -64,7 +56,6 @@ const config = {
       }),
     ]
   ],
-  themes: ['docusaurus-theme-search-typesense'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -146,10 +137,6 @@ const config = {
             title: '도구',
             items: [
               {
-                label: 'anti-DPI-excepti0n',
-                to: 'https://anti-dpi-excepti0n.list-kr.com/'
-              },
-              {
                 label: 'filter-customizer',
                 to: 'https://github.com/List-KR/filter-customizer'
               },
@@ -165,19 +152,6 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      },
-      typesense: {
-        typesenseCollectionName: 'list-kr-community',
-        typesenseServerConfig: {
-          nodes: [
-            {
-              host: process.env.TYPESENSE_HOST,
-              port: process.env.TYPESENSE_PORT,
-              protocol: process.env.TYPESENSE_PROTOCOL
-            }
-          ],
-          apiKey: process.env.TYPESENSE_API_KEY
-        }
       }
     })
 };

@@ -40,19 +40,13 @@ SKT와 LG U+ 네트워크 환경에서는 AdGuard의 DPI로부터 보호 기능�
 
 AdGuard for Android와 AdGuard for Mac에도 추후에 가능합니다.
 
-만약, DPI로부터 보호 기능이 다른 웹 사이트에서 오작동하여 해당 웹 사이트에 방문할 수 없거나 콘텐츠를 제대로 로드할 수 없는 경우, [List-KR/anti-DPI-excepti0n](https://anti-dpi-excepti0n.list-kr.com/) 도구를 사용해서 예외 규칙을 생성하실 수 있습니다.
-이러한 예외 규칙은 아래 위치에서 적용하실 수 있습니다:
-- AdGuard for Windows: Windows 시스템 트레이에 있는 AdGuard 로고 -> 도구 -> 필터 편집기 -> 사용자 규칙
-- AdGuard for Android: 보호 탭 -> 광고 차단 -> 사용자 규칙
-- AdGuard for Mac: macOS 메뉴 바에 있는 AdGuard 로고 -> 설정 -> 필터 -> 사용자 규칙
-
 ## 유저스크립트
 
 특수한 광고를 차단하기 위해서는 microShield와 NamuLink 유저스크립트 설치가 필요합니다.
 
 각 페이지를 참고하셔서 설치를 진행해주세요:
- - microShield: https://community.list-kr.com/docs/AdGuard/Userscripts/microShield
- - NamuLink: https://community.list-kr.com/docs/AdGuard/Userscripts/NamuLink
+ - microShield: https://list-kr-community.pages.dev/docs/AdGuard/Userscripts/microShield
+ - NamuLink: https://list-kr-community.pages.dev/docs/AdGuard/Userscripts/NamuLink
 
 ## DNS
 
